@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: The <code>else</code> block is used to check an additional condition.
+  - text: The <code>else</code> block is executed when the condition in the if statement
+      is <code>true</code>.
+  - text: The <code>else</code> block is used to terminate the program.
+  - text: The <code>else</code> block is executed when the condition in the if statement
+      is <code>false</code>.
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47225#comment
+status: Solved
+record: -1
+local_check: false

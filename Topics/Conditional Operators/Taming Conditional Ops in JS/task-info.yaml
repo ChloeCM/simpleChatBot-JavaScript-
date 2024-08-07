@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Operators: || and &amp;&amp;, Result: &#x27;A is greater&#x27;"
+  - text: "Operators: == and !=, Result: &#x27;B is greater&#x27;"
+  - text: "Operators: &gt; and ?, Result: &#x27;B is greater&#x27;"
+  - text: "Operators: &gt; and ?, Result: &#x27;A is greater&#x27;"
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30674#comment
+status: Solved
+record: -1
+local_check: false
