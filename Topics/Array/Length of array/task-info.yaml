@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>0</code>
+  - text: <code>NaN</code>
+  - text: <code>undefined</code>
+  - text: <code>1</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16148#comment
+status: Solved
+record: -1
+local_check: false

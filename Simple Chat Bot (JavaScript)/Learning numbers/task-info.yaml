@@ -6,10 +6,10 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/221/stages/1110/implement#comment
+feedback_link: https://hyperskill.org/learn/step/17057#comment
 check_profile: hyperskill_node_javascript
 status: Solved
 feedback:
   message: <html>Correct solution</html>
   time: "Wed, 07 Aug 2024 22:58:57 UTC"
-record: -1
+record: 4

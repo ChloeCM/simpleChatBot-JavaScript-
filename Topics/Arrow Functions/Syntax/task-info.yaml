@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>let sum = (a, b) =&gt; a + b;</code>"
+  - text: "<code>let sum = a, b =&gt; (a + b);</code>"
+  - text: "<code>let sum = a, b =&gt; { return a + b; };</code>"
+  - text: "<code>let sum = (a, b) =&gt; { return a + b; };</code>"
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8456#comment
+status: Solved
+record: -1
+local_check: false

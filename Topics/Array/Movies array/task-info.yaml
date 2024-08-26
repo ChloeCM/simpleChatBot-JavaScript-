@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - "movies[5]"
+  - "movies[1]"
+  - "movies[3]"
+  - "movies[0]"
+options:
+  - <code>undefined</code>
+  - <code>Inception</code>
+  - <code>The Dark Knight</code>
+  - <code>Avatar</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16146#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
